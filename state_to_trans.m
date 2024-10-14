@@ -1,4 +1,5 @@
 % https://youtu.be/CwB8FzXWvgY
+% https://dsp.stackexchange.com/questions/24154/why-eigen-values-and-poles-of-a-system-are-equivalent
 syms s
 A = [0,1,0,0;0,-703,-5.2,14.8;0,0,0,1;0,3135,58.4,-65.8];
 B = [0;33.2;0;-14.8];
